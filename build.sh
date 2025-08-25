@@ -7,8 +7,8 @@ composer install --no-interaction --no-dev --prefer-dist
 
 # Instalar dependencias de Node.js y compilar assets (si usas Vite/Mix)
 # Descomenta las siguientes dos líneas si tu proyecto tiene frontend
-# npm install
-# npm run build
+npm install
+npm run build
 
 # Limpiar y cachear configuraciones para producción
 php artisan config:cache
