@@ -27,7 +27,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://laravel-h0ubsv9x1-yudi-stars-projects.vercel.app",
-        "APP_KEY": "base64:TU_APP_KEY_AQUI",
+        "APP_KEY": "base64:NBgF2L+MUcurDjHP7Ld7eHBenNlsTRe9p3adVgjd+vQ=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
